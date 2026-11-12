@@ -9,7 +9,7 @@ Amp workspace allows.
 
 ## Requirements
 
-- Hermes Agent 0.21 or newer, macOS or Linux
+- Hermes Agent 0.23.1 or newer (the version it was built and tested on), macOS or Linux
 - The [Amp CLI](https://ampcode.com/manual#get-started), installed and logged in (`amp login`)
 
 ## Install
