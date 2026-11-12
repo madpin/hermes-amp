@@ -1,0 +1,14 @@
+name: amp
+manifest_version: 2
+version: 0.1.0
+kind: model-provider
+description: "Run Hermes on the models of your Amp (ampcode.com) account through the Amp CLI. Hermes keeps its own tools, memory and skills; Amp runs as a bare model with Hermes' system prompt, no tools and no MCP servers."
+author: "madpin"
+license: MIT
+platforms:
+  - macos
+  - linux
+requires_hermes: ">=0.21.0"
+external_dependencies:
+  - command: amp
+capabilities: []
